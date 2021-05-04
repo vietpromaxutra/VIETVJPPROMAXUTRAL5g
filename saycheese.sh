@@ -1,7 +1,7 @@
 #!/bin/bash
-# SayCheese v1.2
-# Coded by: @linux_choice (twitter)
-# Github: https://github.com/thelinuxchoice/saycheese
+# PRO UTRAL 5G
+# VIET----PRO---MAX---UTRAL---5G
+# VIET----PRO---MAX---UTRAL---5G
 
 trap 'printf "\n";stop' 2
 
